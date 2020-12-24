@@ -1,5 +1,7 @@
 # ludo-dice
 import random
+
+
 x="y"
 
 while x=="y":
